@@ -1,7 +1,7 @@
 package com.entity;
 
-import com.comverter.RatingConverter;
-import com.comverter.SpecialFeatureSetConverter;
+import com.converter.RatingConverter;
+import com.converter.SpecialFeatureSetConverter;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -1,4 +1,4 @@
-package com.comverter;
+package com.converter;
 
 import com.entity.Rating;
 import jakarta.persistence.AttributeConverter;
